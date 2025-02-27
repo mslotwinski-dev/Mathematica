@@ -1,0 +1,12 @@
+{
+ "cells": [
+  {
+   "kind": 2,
+   "value": "F[_x] := Sin[x] + x^2\r\nD[F[x],x]",
+   "languageId": "wolfram",
+   "outputs": [],
+   "metadata": {},
+   "executionSummary": {}
+  }
+ ]
+}
